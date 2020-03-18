@@ -1,0 +1,6 @@
+# public
+blog-server/public
+
+blog-admin/public
+
+*/node_modules
